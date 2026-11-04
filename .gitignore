@@ -1,0 +1,5 @@
+env/
+build/
+.venv/
+.mypy_cache/
+*.egg-info/
